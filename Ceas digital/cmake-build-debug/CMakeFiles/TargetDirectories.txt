@@ -1,0 +1,3 @@
+D:/Project in C/Ceas digital/cmake-build-debug/CMakeFiles/Ceas_digital.dir
+D:/Project in C/Ceas digital/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Project in C/Ceas digital/cmake-build-debug/CMakeFiles/rebuild_cache.dir
