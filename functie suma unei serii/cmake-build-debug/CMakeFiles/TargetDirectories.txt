@@ -1,0 +1,3 @@
+D:/Project in C/functie suma unei serii/cmake-build-debug/CMakeFiles/functie_suma_unei_serii.dir
+D:/Project in C/functie suma unei serii/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Project in C/functie suma unei serii/cmake-build-debug/CMakeFiles/rebuild_cache.dir
